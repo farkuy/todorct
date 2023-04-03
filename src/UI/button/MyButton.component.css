@@ -1,0 +1,9 @@
+.myBtn {
+    border: 1px solid deepskyblue;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    margin: 5px;
+    background: white;
+    width: 100px;
+}

@@ -1,0 +1,12 @@
+.myForm {
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    width: 800px;
+    justify-content: space-between;
+    flex-direction: column;
+    position: absolute;
+    text-align: center;
+
+}
+
